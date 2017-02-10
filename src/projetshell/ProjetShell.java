@@ -16,6 +16,9 @@ public class ProjetShell {
      */
     public static void main(String[] args) {
         System.out.println("j ai faimmmmm");
+        System.out.println("HEYY");
+        System.out.println("yo");
+        System.out.println("toto");
     }
     
 }
